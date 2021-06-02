@@ -1,0 +1,6 @@
+milk bread bread bread
+bread milk milk bread
+milk milk milk bread bread bread bread
+cat cat cat dog dog bark
+dog dog cat bark mew mew
+cat dog cat dog mew
