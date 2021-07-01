@@ -1,0 +1,75 @@
+
+
+https://www.youtube.com/watch?v=KIrdIHKvtYw Natural Language Processing in Urdu: Introduction 1.1 Language and Natural Language
+
+https://www.youtube.com/watch?v=xvlt8riLx6c Natural Language Processing in Urdu Introduction: 1.2 Scientific study of language
+
+https://www.youtube.com/watch?v=ZVaGIZ3CNqg Natural Language Processing in Urdu Introduction: 1.3 Description and Objectives
+
+https://www.youtube.com/watch?v=3CGTwBwg_9A Natural Language Processing in Urdu Introduction: 1.4 Linguistics and its Types
+
+https://www.youtube.com/watch?v=1Bf1R5gclpI Natural Language Processing in Urdu Introduction: 1.5 Generative theory of Language
+
+https://www.youtube.com/watch?v=3cFZZb-wvMc Natural Language Processing in Urdu Introduction, Lecture 1.6 Features of Language
+
+https://www.youtube.com/watch?v=JfXlStN8ZtU  Natural Language Processing in Urdu Introduction: 1.7 Functions of Language
+
+https://www.youtube.com/watch?v=063bNY4pCrc Natural Language Processing in Urdu Introduction: 1.8 NLP and Related Topics
+
+https://www.youtube.com/watch?v=O2IQrsSLEb0 Natural Language Processing in Urdu Introduction: 1.9 NLP and Text mining Project Ideas
+
+https://www.youtube.com/watch?v=fudGTarEiC4 Natural Language Processing in Urdu Introduction: 1.10 NLP Pipeline
+
+https://www.youtube.com/watch?v=yizn4DbQQ6c Natural Language Processing in Urdu: Data Analysis 2.1 Environment Setup (Anaconda, Google Colab) watched
+
+https://www.youtube.com/watch?v=sqfeS-dA4vM Natural Language Processing in Urdu: Data Analysis 2.2 Basic analysis (sent:doc word:sent etc.) watched
+
+https://www.youtube.com/watch?v=7G5Wq-ry-Do Natural Language Processing in Urdu : Data Analysis 2.3 Most Frequent and Most Infrequent tokens watched
+
+https://www.youtube.com/watch?v=jGoF6Ld8LKM Natural Language Processing in Urdu : Data Analysis 2.4 Longest and Shortest Tokens watched 
+
+https://www.youtube.com/watch?v=SIVHErNBZZ0 Natural Language Processing in Urdu : Data Analysis 2.5 Plotting Words and Frequencies watched
+
+https://www.youtube.com/watch?v=U5ymaaB_AOA Reading text from dataset in CSV format in python watched
+
+https://www.youtube.com/watch?v=PVFAgkOw0y8 Natural Language Processing in Urdu : Data Analysis 2.7 Dataset Selection for NLP Tasks watched
+
+https://www.youtube.com/watch?v=1gIDkUqjVDo Text Vectorization, Converting Text into vectors for Machine learning watched
+
+https://www.youtube.com/watch?v=IN83Bc4yltE Text Representation schemes watched
+
+https://www.youtube.com/watch?v=eyhpUT5v8NM Tf-idf in Python with sklearn watched
+ 
+https://www.youtube.com/watch?v=-yDgQ1hbic4 Normalization (Stemming, lemmatization, stopwords, punctuations) watchd
+
+https://www.youtube.com/watch?v=0KplyAy2zWU K-nearest neighbors classifier, KNN watched
+
+https://www.youtube.com/watch?v=RVfqXe18SjI Naive bayes Classifier watched
+
+https://www.youtube.com/watch?v=hgcY362-Y2M Decision Tree Classifier
+
+https://www.youtube.com/watch?v=97D4C2bsiSY Linear Classifier
+
+https://www.youtube.com/watch?v=hd8X_B7eSZQ Machine Learning Classifiers
+
+https://www.youtube.com/watch?v=FT-ZJlO-r3s Cross Validation
+
+
+https://www.youtube.com/watch?v=lZzJRjKJ1XU Text Representational schemes (TF-IDF, Frequency, Binary Features with Bag of Words Approach)
+
+https://www.youtube.com/watch?v=bbi5WSMlcBY document clustering in python
+
+https://www.youtube.com/watch?v=N-VFjNEp7_o Reading text from dataset in CSV format in python
+
+
+and 
+Edit distance (not recorded)
+Ngrams (not recorded)
+
+and the course,
+Project based text mining in Python 
+Section 2: Text Representation cleared
+Section 3: Document Classification cleared
+Section 4: Document Clustering cleared
+Section 5: Validation and Evaluation cleared
+Section 6: Text Preprocessing cleared
