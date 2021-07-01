@@ -9,7 +9,7 @@ corpus = ['text text mining is interesting',
           'text mining is the same as data mining',
           'text and data mining have few differences']
 from sklearn.feature_extraction.text import CountVectorizer
-vec = CountVectorizer(binary = 'true', max_df = 2, min_df = 2, max_features =3, ngram_range=(1,3))
+vec = CountVectorizer(binary = 'true', max_df = 2, min_df = 2, max_features =10, ngram_range=(2,2))
 X = vec.fit_transform(corpus)
 print(X.toarray())
 print(vec.get_feature_names())
